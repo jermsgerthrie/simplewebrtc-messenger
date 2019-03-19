@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "name": "salty-seductions",
+    "name": "simplewebrtc-messenger",
     "builds": [
-        { "src": "nodejs/*.js", "use": "@now/node" }
+        { "src": "*.js", "use": "@now/node" }
     ]
 }
