@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "salty-seductions",
+    "builds": [
+        { "src": "nodejs/*.js", "use": "@now/node" }
+    ]
+}
